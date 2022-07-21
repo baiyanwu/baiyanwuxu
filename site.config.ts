@@ -44,8 +44,8 @@ export default siteConfig({
   pageUrlOverrides: {
     '/about': '2022-96dfe23a1feb4b979c9a5877a6ae1321',
     '/blog': 'Android-abd8ac1c56424d7eb594f272c8ab57a6'
-  }
-  pageUrlOverrides: null,
+  },
+  // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
