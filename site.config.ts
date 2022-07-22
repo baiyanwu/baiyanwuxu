@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'biaynwu.love',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Travis Fischer',
 
@@ -25,7 +25,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: "https://baiyanwu.love/_next/image?url=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252F47d51ca4-fa78-4922-aee3-925e90a5f32a%252FMimicShhans.png%3Ftable%3Dblock%26id%3D33bf20fa-383a-4399-95b3-916b6371e2c3%26cache%3Dv2&w=1200&q=75",
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
